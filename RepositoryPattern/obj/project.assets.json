@@ -447,23 +447,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ZML\\.nuget\\packages\\": {},
+    "C:\\Users\\islam\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DOTNet\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+      "projectUniqueName": "D:\\ASP.net\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
       "projectName": "RepositoryPattern",
-      "projectPath": "E:\\DOTNet\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
-      "packagesPath": "C:\\Users\\ZML\\.nuget\\packages\\",
-      "outputPath": "E:\\DOTNet\\RepositoryPattern\\RepositoryPattern\\obj\\",
+      "projectPath": "D:\\ASP.net\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+      "packagesPath": "C:\\Users\\islam\\.nuget\\packages\\",
+      "outputPath": "D:\\ASP.net\\RepositoryPattern\\RepositoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ZML\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -472,6 +472,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -520,7 +521,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
