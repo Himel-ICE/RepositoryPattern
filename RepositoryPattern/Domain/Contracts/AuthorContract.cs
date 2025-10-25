@@ -18,4 +18,11 @@
         {
             public Guid Id { get; set; }
         }
+        public class GetAuthorDto
+        {
+            public Guid Id { get; set; }
+            public string Name { get; set; }
+            public string Bio { get; set; }
+            public ICollection<GetBookDto> Books { get; set; }
+        }
 }
