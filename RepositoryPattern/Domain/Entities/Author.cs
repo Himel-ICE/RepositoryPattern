@@ -1,7 +1,10 @@
-﻿namespace RepositoryPattern.Domain.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace RepositoryPattern.Domain.Entities
 {
     public class Author
     {
+        [Key]
         public Guid Id { get; set; }
         public string Name { get; set; }
         public string Bio { get; set; }

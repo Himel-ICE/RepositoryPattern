@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wF8F1fVU+bI=",
+  "dgSpecHash": "gjjZwjehAP8=",
   "success": true,
   "projectFilePath": "D:\\ASP.net\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\islam\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\islam\\.nuget\\packages\\automapper.extensions.expressionmapping\\9.0.1\\automapper.extensions.expressionmapping.9.0.1.nupkg.sha512",
-    "C:\\Users\\islam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\islam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\islam\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\islam\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\islam\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -85,18 +85,5 @@
     "C:\\Users\\islam\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\islam\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 15.1.0 was resolved.",
-      "projectPath": "D:\\ASP.net\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\ASP.net\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
