@@ -72,9 +72,7 @@ namespace RepositoryPattern.Controllers
             return NoContent();
         }
 
-        // ============================
-        // 🔹 Manual Mapping Functions
-        // ============================
+        
 
         private GetAuthorDto ToAuthorDto(Author author)
         {
@@ -85,7 +83,6 @@ namespace RepositoryPattern.Controllers
                 Bio = author.Bio,
                 Books = author.Books?.Select(b => new GetBookDto
                 {
-                    Id = b.Id,
                     Title = b.Title
                 }).ToList()
             };
